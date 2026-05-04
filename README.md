@@ -35,5 +35,5 @@ This project is a simple Student Management System built using MySQL. It manages
 - Count courses per student
 - Find popular courses
 
-## 👨‍💻 Author
+## Author
 Bassam Hassan
